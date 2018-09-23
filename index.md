@@ -1,4 +1,4 @@
-##### Hello! I'm Sagar. Welcome to my blog. Here's every post I've ever written. Feel free to poke around and/or [reach out](sagar314p@gmail.com) to me if something peaks your interest.
+##### Hello! I'm Sagar. Welcome to my blog. Here's every post I've ever written. Feel free to poke around and/or [reach out](mailto:sagar314p@gmail.com) to me if something peaks your interest.
 
 ### Markdown
 
