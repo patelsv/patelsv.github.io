@@ -1,4 +1,4 @@
-# DRAFT
+## DRAFT
 
 TO paraphrase from the website itself, Cryptopals.com hosts a collection of 48 challenges that
 demonstrates attacks on real-world crypto.
@@ -13,4 +13,4 @@ I've started this blog post as a way to document my progress through the challen
 So, without further ado I'll start with challenges from set-1.
 
 ### Set - 1
-##### Challenge - 1
+#### Challenge - 1
