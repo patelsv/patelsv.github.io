@@ -30,7 +30,6 @@ E.g.
 
 ##### Code:  
 *Rule: Always operate on raw bytes, never on encoded strings. Only use hex and base64 for pretty-printing.*  
-
 ```  
 # Always make sure to make the code modular so that it can be reused later 
 # on into other challenges/projects if need be.
@@ -43,7 +42,20 @@ def hextobase64(hexStr):
 import codecs
 def hextobase64P3(hexStr):
         return codecs.encode(codecs.decode(hexStr,'hex'),'base64').decode()[:-1]
-
 ```  
+
+#### Challenge - 2 :  Fixed Length XOR  
+Write a function that takes two equal length buffers and produces their [XOR](https://en.wikipedia.org/wiki/Exclusive_or) combination.  
+
+```1c0111001f010100061a024b53535009181c```  
+```686974207468652062756c6c277320657965```  
+XOR operation of the previous two Hex strings should return:  
+```746865206b696420646f6e277420706c6179```  
+
+##### Code:  
+```
+def fixedXOR(hexStr1, hexStr2):
+  return hex( int(hexStr1,16) ^ int(hexStr2,16))[2:]
+```
 
 
