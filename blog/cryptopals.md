@@ -1,4 +1,4 @@
-## DRAFT
+## Cryptopals Crypto Challenges
 
 To paraphrase from the website itself, Cryptopals.com hosts a collection of 48 challenges that demonstrates attacks on real-world crypto.
 
@@ -6,7 +6,8 @@ The incentive is to learn about cryptography by solving a set of challenges rath
 
 [Here](https://blog.pinboard.in/2013/04/the_matasano_crypto_challenges/) is a very well written intro to these challenges.
 
-I've started this blog post as a way to document my progress through the challenges as I go through them.  
+I've started this blog post as a way to document my progress through the challenges as I go through them.
+*Note that my code for the challenges is located in my [github repo](https://github.com/patelsv/cryptopals)*
 So, without further ado I'll start with challenges from set-1.
 
 ### Set - 1 : Basics  
