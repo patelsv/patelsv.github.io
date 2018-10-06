@@ -47,10 +47,10 @@ def hextobase64P3(hexStr):
 #### Challenge - 2 :  Fixed Length XOR  
 Write a function that takes two equal length buffers and produces their [XOR](https://en.wikipedia.org/wiki/Exclusive_or) combination.  
 
-```1c0111001f010100061a024b53535009181c```  
-```686974207468652062756c6c277320657965```  
+`1c0111001f010100061a024b53535009181c`  
+`686974207468652062756c6c277320657965`  
 XOR operation of the previous two Hex strings should return:  
-```746865206b696420646f6e277420706c6179```  
+`746865206b696420646f6e277420706c6179`  
 
 ##### Code:  
 ```
