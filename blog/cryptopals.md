@@ -31,7 +31,11 @@ E.g.
 *Rule: Always operate on raw bytes, never on encoded strings. Only use hex and base64 for pretty-printing.*  
 
 ```  
-Code goes here!
+# Always make sure to make the code modular so that it can be reused later on into other challenges/projects if need be.
+# Python2 supports the following code
+
+def hextobase64(hexStr):
+  return hexStr.decode("hex").encode("base64")[:-1]
 
 ```  
 
