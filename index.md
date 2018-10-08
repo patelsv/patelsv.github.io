@@ -2,7 +2,8 @@ Hello! I'm Sagar. Welcome to my blog. Here's every post I've ever written. Feel 
 
 The simple format of this blog is inspired from Julia Evans' very informative [blog](https://jvns.ca/)
 
-XXX XX  2018      [Learning Shodan](/blog/shodan.md)
+XXX XX  2018      [A Cool Side Project That I've Been Working On](/blog/quaternion.md)
+XXX XX  2018      [Learning Shodan](/blog/shodan.md)  
 XXX XX  2018      [Learning netcat](/blog/netcat.md)  
 XXX XX  2018      [Learning nmap](/blog/nmap.md)  
 XXX XX  2018      [Secure Socket API: Panacea or Placebo](/blog/ssa.md)  
