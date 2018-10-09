@@ -4,6 +4,7 @@ The simple format of this blog is inspired from Julia Evans' very informative [b
   
 *Note that the dates with 'X' contain ideas for future blogs / things to learn*  
 
+XXX XX  2018 | [Halite-III: TwoSigma's AI Challenge](/blog/halite3.md)  
 XXX XX  2018 | [Step Towards Being More Informed On Environmental Issues](/blog/environment.md)  
 XXX XX  2018 | [Picking a New Programming Language to Learn](/blog/language1.md)  
 XXX XX  2018 | [Implementing Dijkstra's Algorithm](/blog/dijkstra.md)  
