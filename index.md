@@ -10,6 +10,7 @@ Oct 03  2018 | [So you want to learn crypto, but don't know where to start](/blo
 
 *Note that the dates with 'X' contain ideas for future blogs / things to learn*  
   
+XXX XX  2018 | [Basics of graphics in Python](/blog/pyqt.md)  
 XXX XX  2018 | [Algorithms Implementations (Running List)](/blog/implementAlgo.md)  
 XXX XX  2018 | [Exploring Google's Project Magenta](/blog/magenta.md)  
 XXX XX  2018 | [Halite-III: TwoSigma's AI Challenge](/blog/halite3.md)  
