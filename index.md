@@ -2,7 +2,8 @@ Hello! I'm Sagar. Welcome to my blog. Here's every post I've ever written. Feel 
   
 [About](/blog/about.md)  
 [Resume](/blog/Resume.pdf)  
-  
+[Books](/blog/books.md)
+
 The simple format of this blog is inspired from Julia Evans' very informative [blog](https://jvns.ca/).  
 
 Oct 16  2018 | [Halite-III: TwoSigma's AI Challenge](/blog/halite3.md)  
