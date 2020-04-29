@@ -1,5 +1,5 @@
 Hello! I'm Sagar. Welcome to my blog. Here's every post I've ever written. Feel free to poke around and [reach out](mailto:sagar314p@gmail.com) to me if something peaks your interest.  
-  
+
 [About](/blog/about.md)  
 [Resume](/blog/Resume.pdf)  
   
@@ -10,7 +10,7 @@ Oct 07  2018 | [Setting some ground rules for the blog](/blog/ground_rules.md)
 Oct 03  2018 | [So you want to learn crypto, but don't know where to start](/blog/cryptopals.md)  
 
 *Note that the dates with 'X' contain ideas for future blogs / things to learn*  
-  
+
 XXX XX  2018 | [On 'Plastic Credit'](/blog/plasticcredit.md)  
 XXX XX  2018 | [Basics of graphics in Python](/blog/pyqt.md)  
 XXX XX  2018 | [Algorithms Implementations (Running List)](/blog/implementAlgo.md)  
