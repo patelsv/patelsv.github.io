@@ -2,7 +2,7 @@ Hello! I'm Sagar. Welcome to my blog. Here's every post I've ever written. Feel 
 
 [About](/blog/about.md)    
 [Resume](/blog/Resume.pdf)  
-[Books](/blog/books.md)
-[Archive](/blog/archive.md)
+[Books](/blog/books.md)  
+[Archive](/blog/archive.md)  
 
 The simple format of this blog is inspired from Julia Evans' very informative [blog](https://jvns.ca/).  
