@@ -1,4 +1,4 @@
 #theme: jekyll-theme-slate
-remote_theme: hyde
+remote_theme: poole/hyde
 title: Sagar Patel
 description: Personal blog for projects and random musings (hopefully no rants)
