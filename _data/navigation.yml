@@ -1,5 +1,7 @@
 main:
   - title: "Posts"
     url: /
-  - title: "Presentations"
-    url: /talks/
+  #- title: "Presentations"
+  #  url: /talks/
+  - title: "Reading"
+    url: /reading/
