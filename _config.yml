@@ -31,7 +31,8 @@ plugins:
 author:
   name             : "Sagar Patel"
   avatar           : /assets/img/0.jpg
-  bio              : "Healthcare security researcher, and policy analyst. This is my personal blog mostly containing write ups of side projects, random musings, and other hobbies."
+  bio              : "Healthcare security researcher, and policy analyst. This is my personal blog mostly containing write ups of side projects, random musings, and other hobbies. 
+  The layout of this blog is based on Dirk-jan Mollema's very informative blog."
   location         : "A pale blue dot"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
