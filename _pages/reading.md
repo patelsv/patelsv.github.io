@@ -8,10 +8,13 @@ permalink: /reading/
 # Books
 [Introduction to Crypto](https://www.crypto101.io/)  
 [Security Engineering by Ross Anderson](https://www.cl.cam.ac.uk/~rja14/book.html)  
+Creativity Inc.  
+The Undoing Project  
 
 # References
 
 ### Articles
+
 
 ### Sites
 [Hacker News](https://hckrnews.com/)  
