@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide smallfont
-title:  "Books and Other References"
+title:  "Test post title"
 date: January 9, 2021
 ---
 
