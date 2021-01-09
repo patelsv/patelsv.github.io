@@ -2,7 +2,7 @@
 layout: single
 classes: wide smallfont
 title:  "Books and Other References"
-permalink: /reading/
+date: January 9, 2021
 ---
 
 # Books
