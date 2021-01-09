@@ -1,6 +1,6 @@
 ---
 layout: single
-classes: wide smallfont
+classes: wide
 title:  "Test post title"
 date: January 9, 2021
 ---
